@@ -5,10 +5,10 @@ Este é um projeto desenvolvido pelos estudantes Vinicius Bertoldi Motta e Hiago
 ## Informações dos Estudantes
 
 - **Nome:** Vinicius Bertoldi Motta
-- **E-mail:** [vinicius.bertoldi@aluno.ifsp.edu.br]
+- **E-mail:** vinicius.bertoldi@aluno.ifsp.edu.br
 
 - **Nome:** Hiago Henrique Tofanelli
-- **E-mail:** [hiago.tofanelli@aluno.ifsp.edu.br]
+- **E-mail:** hiago.tofanelli@aluno.ifsp.edu.br
 
 ## Disciplina
 
