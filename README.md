@@ -12,4 +12,4 @@ Este é um projeto desenvolvido pelos estudantes Vinicius Bertoldi Motta e Hiago
 
 ## Disciplina
 
-A disciplina foi ministrada pelo professor Evandro Araújo Jardini.
+Disciplina ministrada pelo professor Evandro Araújo Jardini.
